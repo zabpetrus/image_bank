@@ -1,0 +1,3750 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   version="1.1"
+   x="0px"
+   y="0px"
+   width="3840px"
+   height="2160px"
+   viewBox="0 0 3840 2160"
+   enable-background="new 0 0 3840 2160"
+   xml:space="preserve"
+   id="svg1123"
+   sodipodi:docname="ecg.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:x="adobe:ns:meta/"
+   xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+   xmlns:xmpGImg="http://ns.adobe.com/xap/1.0/g/img/"
+   xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+   xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#"
+   xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
+   xmlns:illustrator="http://ns.adobe.com/illustrator/1.0/"
+   xmlns:xmpTPg="http://ns.adobe.com/xap/1.0/t/pg/"
+   xmlns:stDim="http://ns.adobe.com/xap/1.0/sType/Dimensions#"
+   xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/"
+   xmlns:pdf="http://ns.adobe.com/pdf/1.3/"><defs
+   id="defs1127">
+	
+	
+	
+	
+</defs><sodipodi:namedview
+   id="namedview1125"
+   pagecolor="#ffffff"
+   bordercolor="#000000"
+   borderopacity="0.25"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1"
+   showgrid="false"
+   inkscape:zoom="0.16433685"
+   inkscape:cx="2500.9606"
+   inkscape:cy="1247.4378"
+   inkscape:window-width="1366"
+   inkscape:window-height="705"
+   inkscape:window-x="-8"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Camada_1" />
+<metadata
+   id="metadata569"><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta
+   x:xmptk="Adobe XMP Core 5.3-c011 66.145661, 2012/02/06-14:56:27        ">
+   <rdf:RDF>
+      <rdf:Description
+   rdf:about="">
+         <dc:format>image/svg+xml</dc:format>
+         <dc:title>
+            <rdf:Alt>
+               <rdf:li
+   xml:lang="x-default">Print</rdf:li>
+            </rdf:Alt>
+         </dc:title>
+      </rdf:Description>
+      <rdf:Description
+   rdf:about="">
+         <xmp:MetadataDate>2023-11-17T14:22:35-03:00</xmp:MetadataDate>
+         <xmp:ModifyDate>2023-11-17T14:22:35-03:00</xmp:ModifyDate>
+         <xmp:CreateDate>2023-11-17T14:22:34-03:00</xmp:CreateDate>
+         <xmp:CreatorTool>Adobe Illustrator CS6 (Windows)</xmp:CreatorTool>
+         <xmp:Thumbnails>
+            <rdf:Alt>
+               <rdf:li
+   rdf:parseType="Resource">
+                  <xmpGImg:width>256</xmpGImg:width>
+                  <xmpGImg:height>140</xmpGImg:height>
+                  <xmpGImg:format>JPEG</xmpGImg:format>
+                  <xmpGImg:image>/9j/4AAQSkZJRgABAgEASABIAAD/7QAsUGhvdG9zaG9wIDMuMAA4QklNA+0AAAAAABAASAAAAAEA
+AQBIAAAAAQAB/+4ADkFkb2JlAGTAAAAAAf/bAIQABgQEBAUEBgUFBgkGBQYJCwgGBggLDAoKCwoK
+DBAMDAwMDAwQDA4PEA8ODBMTFBQTExwbGxscHx8fHx8fHx8fHwEHBwcNDA0YEBAYGhURFRofHx8f
+Hx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8f/8AAEQgAjAEAAwER
+AAIRAQMRAf/EAaIAAAAHAQEBAQEAAAAAAAAAAAQFAwIGAQAHCAkKCwEAAgIDAQEBAQEAAAAAAAAA
+AQACAwQFBgcICQoLEAACAQMDAgQCBgcDBAIGAnMBAgMRBAAFIRIxQVEGE2EicYEUMpGhBxWxQiPB
+UtHhMxZi8CRygvElQzRTkqKyY3PCNUQnk6OzNhdUZHTD0uIIJoMJChgZhJRFRqS0VtNVKBry4/PE
+1OT0ZXWFlaW1xdXl9WZ2hpamtsbW5vY3R1dnd4eXp7fH1+f3OEhYaHiImKi4yNjo+Ck5SVlpeYmZ
+qbnJ2en5KjpKWmp6ipqqusra6voRAAICAQIDBQUEBQYECAMDbQEAAhEDBCESMUEFURNhIgZxgZEy
+obHwFMHR4SNCFVJicvEzJDRDghaSUyWiY7LCB3PSNeJEgxdUkwgJChgZJjZFGidkdFU38qOzwygp
+0+PzhJSktMTU5PRldYWVpbXF1eX1RlZmdoaWprbG1ub2R1dnd4eXp7fH1+f3OEhYaHiImKi4yNjo
++DlJWWl5iZmpucnZ6fkqOkpaanqKmqq6ytrq+v/aAAwDAQACEQMRAD8A9EeZoec8J8FP68XIwHZJ
+vqvthb+J31X2xXid9V9sV4nfVfbFeJ31X2xXid9V9sV4nfVfbFeJ31X2xXid9V9sV4nfVfbFeJ31
+X2xXid9V9sV4nfVfbFeJ31X2xXid9V9sV4nfVfbFeJ31X2xXid9V9sV4nfVfbFeJ31X2xXid9V9s
+V4nfVfbFeJ31X2xXid9V9sV4kvvNX0Gyvo7C81G2tr6VDLHayzRpK0a1JcIxB4jid/Y+GKDMKml3
+ulatai70u7hvrUsVE9u6ypyXqOSkioxUTtGfVfbFPE76r7YrxO+q+2K8TvqvtivEyrQU4aZGvu3/
+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
+c1H/AKus33Qf9UMV4Xf4c1H/AKus33Qf9UMV4Xf4c1H/AKus33Qf9UMV4Xf4c1H/AKus33Qf9UMV
+4Xf4c1H/AKus33Qf9UMV4Xf4c1H/AKus33Qf9UMV4Xf4c1H/AKus33Qf9UMV4Xf4c1H/AKus33Qf
+9UMV4Xf4c1H/AKus33Qf9UMV4Xf4c1H/AKus33Qf9UMV4Xf4c1H/AKus33Qf9UMV4Xf4c1H/AKus
+33Qf9UMV4Xf4c1H/AKus33Qf9UMV4Xf4c1H/AKus33Qf9UMV4Xf4c1H/AKus33Qf9UMV4Xf4c1H/
+AKus33Qf9UMV4Xf4c1H/AKus33Qf9UMV4Xf4c1H/AKus33Qf9UMV4Xf4c1H/AKus33Qf9UMV4Xf4
+c1H/AKus33Qf9UMV4Xf4c1H/AKus33Qf9UMV4Xf4c1H/AKus33Qf9UMV4Xf4c1H/AKus33Qf9UMV
+4Xf4c1H/AKus33Qf9UMV4Xf4c1H/AKus33Qf9UMV4Xf4c1H/AKus33Qf9UMV4Xf4c1H/AKus33Qf
+9UMV4U8stJvktY0OrXVQOy2tPxgxYquqS8JEHiD+vFsgED9ZxbKd9ZxWnfWcVp31nFad9ZxWnfWc
+Vp31nFad9ZxWnfWcVp31nFad9ZxWnfWcVp31nFad9ZxWnfWcVp31nFad9ZxWnfWcVp31nFad9ZxW
+nfWcVp31nFad9ZxWnfWcVp31nFad9ZxWnfWcVp31nFad9ZxWnfWcVpObNuVtGfEYtEuaUeYpeE0I
+8VP68W7CNko+s++Fu4XfWffFeF31n3xXhd9Z98V4XfWffFeF31n3xXhd9Z98V4XfWffFeF31n3xX
+hd9Z98V4XfWffFeF31n3xXhd9Z98V4XfWffFeF31n3xXhd9Z98V4XfWffFeF31n3xXhd9Z98V4Xf
+WffFeF31n3xXhd9Z98V4XfWffFeF31n3xXhd9Z98V4XfWffFeF31n3xXhd9Z98V4XfWffFeF31n3
+xXhZXpjcrCA+K4HEnzQmsfoj1I/r3LnxPDjy6V/ycWePi6Jf/wA6t/l/8lMWz947/nVv8v8A5KYr
++8d/zq3+X/yUxX947/nVv8v/AJKYr+8d/wA6t/l/8lMV/eO/51b/AC/+SmK/vHf86t/l/wDJTFf3
+jv8AnVv8v/kpiv7x3/Orf5f/ACUxX947/nVv8v8A5KYr+8d/zq3+X/yUxX947/nVv8v/AJKYr+8d
+/wA6t/l/8lMV/eO/51b/AC/+SmK/vHf86t/l/wDJTFf3jv8AnVv8v/kpiv7x3/Orf5f/ACUxX947
+/nVv8v8A5KYr+8d/zq3+X/yUxX947/nVv8v/AJKYr+8d/wA6t/l/8lMV/eO/51b/AC/+SmK/vHf8
+6t/l/wDJTFf3jv8AnVv8v/kpiv7x3/Orf5f/ACUxX947/nVv8v8A5KYr+8d/zq3+X/yUxX947/nV
+v8v/AJKYr+8d/wA6t/l/8lMV/eO/51b/AC/+SmK/vE+svq/1SL6vX0eP7uta0+nFold7v//Z</xmpGImg:image>
+               </rdf:li>
+            </rdf:Alt>
+         </xmp:Thumbnails>
+      </rdf:Description>
+      <rdf:Description
+   rdf:about="">
+         <xmpMM:InstanceID>xmp.iid:7CBE5CDA6885EE1182949EAE7CA9D707</xmpMM:InstanceID>
+         <xmpMM:DocumentID>xmp.did:7CBE5CDA6885EE1182949EAE7CA9D707</xmpMM:DocumentID>
+         <xmpMM:OriginalDocumentID>uuid:5D20892493BFDB11914A8590D31508C8</xmpMM:OriginalDocumentID>
+         <xmpMM:RenditionClass>proof:pdf</xmpMM:RenditionClass>
+         <xmpMM:DerivedFrom
+   rdf:parseType="Resource">
+            <stRef:instanceID>xmp.iid:7BBE5CDA6885EE1182949EAE7CA9D707</stRef:instanceID>
+            <stRef:documentID>xmp.did:7BBE5CDA6885EE1182949EAE7CA9D707</stRef:documentID>
+            <stRef:originalDocumentID>uuid:5D20892493BFDB11914A8590D31508C8</stRef:originalDocumentID>
+            <stRef:renditionClass>proof:pdf</stRef:renditionClass>
+         </xmpMM:DerivedFrom>
+         <xmpMM:History>
+            <rdf:Seq>
+               <rdf:li
+   rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:7BBE5CDA6885EE1182949EAE7CA9D707</stEvt:instanceID>
+                  <stEvt:when>2023-11-17T13:46:28-03:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Illustrator CS6 (Windows)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li
+   rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:7CBE5CDA6885EE1182949EAE7CA9D707</stEvt:instanceID>
+                  <stEvt:when>2023-11-17T14:22:35-03:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Illustrator CS6 (Windows)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+            </rdf:Seq>
+         </xmpMM:History>
+      </rdf:Description>
+      <rdf:Description
+   rdf:about="">
+         <illustrator:StartupProfile>Print</illustrator:StartupProfile>
+      </rdf:Description>
+      <rdf:Description
+   rdf:about="">
+         <xmpTPg:HasVisibleOverprint>False</xmpTPg:HasVisibleOverprint>
+         <xmpTPg:HasVisibleTransparency>True</xmpTPg:HasVisibleTransparency>
+         <xmpTPg:NPages>1</xmpTPg:NPages>
+         <xmpTPg:MaxPageSize
+   rdf:parseType="Resource">
+            <stDim:w>3840.000000</stDim:w>
+            <stDim:h>2160.000000</stDim:h>
+            <stDim:unit>Pixels</stDim:unit>
+         </xmpTPg:MaxPageSize>
+         <xmpTPg:PlateNames>
+            <rdf:Seq>
+               <rdf:li>Cyan</rdf:li>
+               <rdf:li>Magenta</rdf:li>
+               <rdf:li>Yellow</rdf:li>
+               <rdf:li>Black</rdf:li>
+            </rdf:Seq>
+         </xmpTPg:PlateNames>
+         <xmpTPg:SwatchGroups>
+            <rdf:Seq>
+               <rdf:li
+   rdf:parseType="Resource">
+                  <xmpG:groupName>Grupo de amostras padrão</xmpG:groupName>
+                  <xmpG:groupType>0</xmpG:groupType>
+                  <xmpG:Colorants>
+                     <rdf:Seq>
+                        <rdf:li
+   rdf:parseType="Resource">
+                           <xmpG:swatchName>Branco</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li
+   rdf:parseType="Resource">
+                           <xmpG:swatchName>Preto</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>100.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li
+   rdf:parseType="Resource">
+                           <xmpG:swatchName>Vermelho CMYK</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>100.000000</xmpG:magenta>
+                           <xmpG:yellow>100.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li
+   rdf:parseType="Resource">
+                           <xmpG:swatchName>Amarelo CMYK</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>100.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li
+   rdf:parseType="Resource">
+                           <xmpG:swatchName>Verde CMYK</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>100.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>100.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li
+   rdf:parseType="Resource">
+                           <xmpG:swatchName>Ciano CMYK</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>100.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li
+   rdf:parseType="Resource">
+                           <xmpG:swatchName>Azul CMYK</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>100.000000</xmpG:cyan>
+                           <xmpG:magenta>100.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li
+   rdf:parseType="Resource">
+                           <xmpG:swatchName>Magenta CMYK</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>100.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li
+   rdf:parseType="Resource">
+                           <xmpG:swatchName>C=15 M=100 Y=90 K=10</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>14.999998</xmpG:cyan>
+                           <xmpG:magenta>100.000000</xmpG:magenta>
+                           <xmpG:yellow>90.000000</xmpG:yellow>
+                           <xmpG:black>10.000002</xmpG:black>
+                        </rdf:li>
+                        <rdf:li
+   rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=90 Y=85 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>90.000000</xmpG:magenta>
+                           <xmpG:yellow>85.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li
+   rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=80 Y=95 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>80.000000</xmpG:magenta>
+                           <xmpG:yellow>95.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li
+   rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=50 Y=100 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>50.000000</xmpG:magenta>
+                           <xmpG:yellow>100.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li
+   rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=35 Y=85 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>35.000004</xmpG:magenta>
+                           <xmpG:yellow>85.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li
+   rdf:parseType="Resource">
+                           <xmpG:swatchName>C=5 M=0 Y=90 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>5.000001</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>90.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li
+   rdf:parseType="Resource">
+                           <xmpG:swatchName>C=20 M=0 Y=100 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>19.999998</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>100.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li
+   rdf:parseType="Resource">
+                           <xmpG:swatchName>C=50 M=0 Y=100 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>50.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>100.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li
+   rdf:parseType="Resource">
+                           <xmpG:swatchName>C=75 M=0 Y=100 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>75.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>100.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li
+   rdf:parseType="Resource">
+                           <xmpG:swatchName>C=85 M=10 Y=100 K=10</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>85.000000</xmpG:cyan>
+                           <xmpG:magenta>10.000002</xmpG:magenta>
+                           <xmpG:yellow>100.000000</xmpG:yellow>
+                           <xmpG:black>10.000002</xmpG:black>
+                        </rdf:li>
+                        <rdf:li
+   rdf:parseType="Resource">
+                           <xmpG:swatchName>C=90 M=30 Y=95 K=30</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>90.000000</xmpG:cyan>
+                           <xmpG:magenta>30.000002</xmpG:magenta>
+                           <xmpG:yellow>95.000000</xmpG:yellow>
+                           <xmpG:black>30.000002</xmpG:black>
+                        </rdf:li>
+                        <rdf:li
+   rdf:parseType="Resource">
+                           <xmpG:swatchName>C=75 M=0 Y=75 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>75.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>75.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li
+   rdf:parseType="Resource">
+                           <xmpG:swatchName>C=80 M=10 Y=45 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>80.000000</xmpG:cyan>
+                           <xmpG:magenta>10.000002</xmpG:magenta>
+                           <xmpG:yellow>45.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li
+   rdf:parseType="Resource">
+                           <xmpG:swatchName>C=70 M=15 Y=0 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>70.000000</xmpG:cyan>
+                           <xmpG:magenta>14.999998</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li
+   rdf:parseType="Resource">
+                           <xmpG:swatchName>C=85 M=50 Y=0 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>85.000000</xmpG:cyan>
+                           <xmpG:magenta>50.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li
+   rdf:parseType="Resource">
+                           <xmpG:swatchName>C=100 M=95 Y=5 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>100.000000</xmpG:cyan>
+                           <xmpG:magenta>95.000000</xmpG:magenta>
+                           <xmpG:yellow>5.000001</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li
+   rdf:parseType="Resource">
+                           <xmpG:swatchName>C=100 M=100 Y=25 K=25</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>100.000000</xmpG:cyan>
+                           <xmpG:magenta>100.000000</xmpG:magenta>
+                           <xmpG:yellow>25.000000</xmpG:yellow>
+                           <xmpG:black>25.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li
+   rdf:parseType="Resource">
+                           <xmpG:swatchName>C=75 M=100 Y=0 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>75.000000</xmpG:cyan>
+                           <xmpG:magenta>100.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li
+   rdf:parseType="Resource">
+                           <xmpG:swatchName>C=50 M=100 Y=0 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>50.000000</xmpG:cyan>
+                           <xmpG:magenta>100.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li
+   rdf:parseType="Resource">
+                           <xmpG:swatchName>C=35 M=100 Y=35 K=10</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>35.000004</xmpG:cyan>
+                           <xmpG:magenta>100.000000</xmpG:magenta>
+                           <xmpG:yellow>35.000004</xmpG:yellow>
+                           <xmpG:black>10.000002</xmpG:black>
+                        </rdf:li>
+                        <rdf:li
+   rdf:parseType="Resource">
+                           <xmpG:swatchName>C=10 M=100 Y=50 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>10.000002</xmpG:cyan>
+                           <xmpG:magenta>100.000000</xmpG:magenta>
+                           <xmpG:yellow>50.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li
+   rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=95 Y=20 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>95.000000</xmpG:magenta>
+                           <xmpG:yellow>19.999998</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li
+   rdf:parseType="Resource">
+                           <xmpG:swatchName>C=25 M=25 Y=40 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>25.000000</xmpG:cyan>
+                           <xmpG:magenta>25.000000</xmpG:magenta>
+                           <xmpG:yellow>39.999996</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li
+   rdf:parseType="Resource">
+                           <xmpG:swatchName>C=40 M=45 Y=50 K=5</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>39.999996</xmpG:cyan>
+                           <xmpG:magenta>45.000000</xmpG:magenta>
+                           <xmpG:yellow>50.000000</xmpG:yellow>
+                           <xmpG:black>5.000001</xmpG:black>
+                        </rdf:li>
+                        <rdf:li
+   rdf:parseType="Resource">
+                           <xmpG:swatchName>C=50 M=50 Y=60 K=25</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>50.000000</xmpG:cyan>
+                           <xmpG:magenta>50.000000</xmpG:magenta>
+                           <xmpG:yellow>60.000004</xmpG:yellow>
+                           <xmpG:black>25.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li
+   rdf:parseType="Resource">
+                           <xmpG:swatchName>C=55 M=60 Y=65 K=40</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>55.000000</xmpG:cyan>
+                           <xmpG:magenta>60.000004</xmpG:magenta>
+                           <xmpG:yellow>65.000000</xmpG:yellow>
+                           <xmpG:black>39.999996</xmpG:black>
+                        </rdf:li>
+                        <rdf:li
+   rdf:parseType="Resource">
+                           <xmpG:swatchName>C=25 M=40 Y=65 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>25.000000</xmpG:cyan>
+                           <xmpG:magenta>39.999996</xmpG:magenta>
+                           <xmpG:yellow>65.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li
+   rdf:parseType="Resource">
+                           <xmpG:swatchName>C=30 M=50 Y=75 K=10</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>30.000002</xmpG:cyan>
+                           <xmpG:magenta>50.000000</xmpG:magenta>
+                           <xmpG:yellow>75.000000</xmpG:yellow>
+                           <xmpG:black>10.000002</xmpG:black>
+                        </rdf:li>
+                        <rdf:li
+   rdf:parseType="Resource">
+                           <xmpG:swatchName>C=35 M=60 Y=80 K=25</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>35.000004</xmpG:cyan>
+                           <xmpG:magenta>60.000004</xmpG:magenta>
+                           <xmpG:yellow>80.000000</xmpG:yellow>
+                           <xmpG:black>25.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li
+   rdf:parseType="Resource">
+                           <xmpG:swatchName>C=40 M=65 Y=90 K=35</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>39.999996</xmpG:cyan>
+                           <xmpG:magenta>65.000000</xmpG:magenta>
+                           <xmpG:yellow>90.000000</xmpG:yellow>
+                           <xmpG:black>35.000004</xmpG:black>
+                        </rdf:li>
+                        <rdf:li
+   rdf:parseType="Resource">
+                           <xmpG:swatchName>C=40 M=70 Y=100 K=50</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>39.999996</xmpG:cyan>
+                           <xmpG:magenta>70.000000</xmpG:magenta>
+                           <xmpG:yellow>100.000000</xmpG:yellow>
+                           <xmpG:black>50.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li
+   rdf:parseType="Resource">
+                           <xmpG:swatchName>C=50 M=70 Y=80 K=70</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>50.000000</xmpG:cyan>
+                           <xmpG:magenta>70.000000</xmpG:magenta>
+                           <xmpG:yellow>80.000000</xmpG:yellow>
+                           <xmpG:black>70.000000</xmpG:black>
+                        </rdf:li>
+                     </rdf:Seq>
+                  </xmpG:Colorants>
+               </rdf:li>
+               <rdf:li
+   rdf:parseType="Resource">
+                  <xmpG:groupName>Cinzas</xmpG:groupName>
+                  <xmpG:groupType>1</xmpG:groupType>
+                  <xmpG:Colorants>
+                     <rdf:Seq>
+                        <rdf:li
+   rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=0 Y=0 K=100</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>100.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li
+   rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=0 Y=0 K=90</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>89.999405</xmpG:black>
+                        </rdf:li>
+                        <rdf:li
+   rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=0 Y=0 K=80</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>79.998795</xmpG:black>
+                        </rdf:li>
+                        <rdf:li
+   rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=0 Y=0 K=70</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>69.999702</xmpG:black>
+                        </rdf:li>
+                        <rdf:li
+   rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=0 Y=0 K=60</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>59.999104</xmpG:black>
+                        </rdf:li>
+                        <rdf:li
+   rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=0 Y=0 K=50</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>50.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li
+   rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=0 Y=0 K=40</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>39.999401</xmpG:black>
+                        </rdf:li>
+                        <rdf:li
+   rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=0 Y=0 K=30</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>29.998802</xmpG:black>
+                        </rdf:li>
+                        <rdf:li
+   rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=0 Y=0 K=20</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>19.999701</xmpG:black>
+                        </rdf:li>
+                        <rdf:li
+   rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=0 Y=0 K=10</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>9.999103</xmpG:black>
+                        </rdf:li>
+                        <rdf:li
+   rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=0 Y=0 K=5</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>4.998803</xmpG:black>
+                        </rdf:li>
+                     </rdf:Seq>
+                  </xmpG:Colorants>
+               </rdf:li>
+               <rdf:li
+   rdf:parseType="Resource">
+                  <xmpG:groupName>Luzes</xmpG:groupName>
+                  <xmpG:groupType>1</xmpG:groupType>
+                  <xmpG:Colorants>
+                     <rdf:Seq>
+                        <rdf:li
+   rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=100 Y=100 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>100.000000</xmpG:magenta>
+                           <xmpG:yellow>100.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li
+   rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=75 Y=100 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>75.000000</xmpG:magenta>
+                           <xmpG:yellow>100.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li
+   rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=10 Y=95 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>10.000002</xmpG:magenta>
+                           <xmpG:yellow>95.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li
+   rdf:parseType="Resource">
+                           <xmpG:swatchName>C=85 M=10 Y=100 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>85.000000</xmpG:cyan>
+                           <xmpG:magenta>10.000002</xmpG:magenta>
+                           <xmpG:yellow>100.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li
+   rdf:parseType="Resource">
+                           <xmpG:swatchName>C=100 M=90 Y=0 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>100.000000</xmpG:cyan>
+                           <xmpG:magenta>90.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li
+   rdf:parseType="Resource">
+                           <xmpG:swatchName>C=60 M=90 Y=0 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>60.000004</xmpG:cyan>
+                           <xmpG:magenta>90.000000</xmpG:magenta>
+                           <xmpG:yellow>0.003099</xmpG:yellow>
+                           <xmpG:black>0.003099</xmpG:black>
+                        </rdf:li>
+                     </rdf:Seq>
+                  </xmpG:Colorants>
+               </rdf:li>
+            </rdf:Seq>
+         </xmpTPg:SwatchGroups>
+      </rdf:Description>
+      <rdf:Description
+   rdf:about="">
+         <pdf:Producer>Adobe PDF library 10.01</pdf:Producer>
+      </rdf:Description>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?>
+	</metadata>
+<g
+   id="Camada_2">
+	<g
+   id="g631">
+		<rect
+   x="0"
+   y="445.961"
+   fill="none"
+   stroke="#000000"
+   stroke-width="3"
+   stroke-miterlimit="10"
+   width="3839"
+   height="1227.039"
+   id="rect571" />
+		<line
+   fill="none"
+   stroke="#000000"
+   stroke-width="3"
+   stroke-miterlimit="10"
+   x1="0"
+   y1="1619.677"
+   x2="3839"
+   y2="1619.677"
+   id="line573" />
+		<line
+   fill="none"
+   stroke="#000000"
+   stroke-width="3"
+   stroke-miterlimit="10"
+   x1="0"
+   y1="1566.354"
+   x2="3839"
+   y2="1566.354"
+   id="line575" />
+		<line
+   fill="none"
+   stroke="#000000"
+   stroke-width="3"
+   stroke-miterlimit="10"
+   x1="0"
+   y1="1513.029"
+   x2="3839"
+   y2="1513.029"
+   id="line577" />
+		<line
+   fill="none"
+   stroke="#000000"
+   stroke-width="3"
+   stroke-miterlimit="10"
+   x1="0"
+   y1="1459.706"
+   x2="3839"
+   y2="1459.706"
+   id="line579" />
+		<line
+   fill="none"
+   stroke="#000000"
+   stroke-width="3"
+   stroke-miterlimit="10"
+   x1="0"
+   y1="1406.383"
+   x2="3839"
+   y2="1406.383"
+   id="line581" />
+		<line
+   fill="none"
+   stroke="#000000"
+   stroke-width="3"
+   stroke-miterlimit="10"
+   x1="0"
+   y1="1352.759"
+   x2="3839"
+   y2="1352.759"
+   id="line583" />
+		<line
+   fill="none"
+   stroke="#000000"
+   stroke-width="3"
+   stroke-miterlimit="10"
+   x1="0"
+   y1="1299.437"
+   x2="3839"
+   y2="1299.437"
+   id="line585" />
+		<line
+   fill="none"
+   stroke="#000000"
+   stroke-width="3"
+   stroke-miterlimit="10"
+   x1="0"
+   y1="1246.112"
+   x2="3839"
+   y2="1246.112"
+   id="line587" />
+		<line
+   fill="none"
+   stroke="#000000"
+   stroke-width="3"
+   stroke-miterlimit="10"
+   x1="0"
+   y1="1192.79"
+   x2="3839"
+   y2="1192.79"
+   id="line589" />
+		<line
+   fill="none"
+   stroke="#000000"
+   stroke-width="3"
+   stroke-miterlimit="10"
+   x1="0"
+   y1="1139.465"
+   x2="3839"
+   y2="1139.465"
+   id="line591" />
+		<line
+   fill="none"
+   stroke="#000000"
+   stroke-width="3"
+   stroke-miterlimit="10"
+   x1="0"
+   y1="1086.143"
+   x2="3839"
+   y2="1086.143"
+   id="line593" />
+		<line
+   fill="none"
+   stroke="#000000"
+   stroke-width="3"
+   stroke-miterlimit="10"
+   x1="0"
+   y1="1032.819"
+   x2="3839"
+   y2="1032.819"
+   id="line595" />
+		<line
+   fill="none"
+   stroke="#000000"
+   stroke-width="3"
+   stroke-miterlimit="10"
+   x1="0"
+   y1="979.495"
+   x2="3839"
+   y2="979.495"
+   id="line597" />
+		<line
+   fill="none"
+   stroke="#000000"
+   stroke-width="3"
+   stroke-miterlimit="10"
+   x1="0"
+   y1="926.172"
+   x2="3839"
+   y2="926.172"
+   id="line599" />
+		<line
+   fill="none"
+   stroke="#000000"
+   stroke-width="3"
+   stroke-miterlimit="10"
+   x1="0"
+   y1="872.848"
+   x2="3839"
+   y2="872.848"
+   id="line601" />
+		<line
+   fill="none"
+   stroke="#000000"
+   stroke-width="3"
+   stroke-miterlimit="10"
+   x1="0"
+   y1="819.525"
+   x2="3839"
+   y2="819.525"
+   id="line603" />
+		<line
+   fill="none"
+   stroke="#000000"
+   stroke-width="3"
+   stroke-miterlimit="10"
+   x1="0"
+   y1="766.201"
+   x2="3839"
+   y2="766.201"
+   id="line605" />
+		<line
+   fill="none"
+   stroke="#000000"
+   stroke-width="3"
+   stroke-miterlimit="10"
+   x1="0"
+   y1="712.578"
+   x2="3839"
+   y2="712.578"
+   id="line607" />
+		<line
+   fill="none"
+   stroke="#000000"
+   stroke-width="3"
+   stroke-miterlimit="10"
+   x1="0"
+   y1="659.255"
+   x2="3839"
+   y2="659.255"
+   id="line609" />
+		<line
+   fill="none"
+   stroke="#000000"
+   stroke-width="3"
+   stroke-miterlimit="10"
+   x1="0"
+   y1="605.932"
+   x2="3839"
+   y2="605.932"
+   id="line611" />
+		<line
+   fill="none"
+   stroke="#000000"
+   stroke-width="3"
+   stroke-miterlimit="10"
+   x1="0"
+   y1="552.608"
+   x2="3839"
+   y2="552.608"
+   id="line613" />
+		<line
+   fill="none"
+   stroke="#000000"
+   stroke-width="3"
+   stroke-miterlimit="10"
+   x1="0"
+   y1="499.285"
+   x2="3839"
+   y2="499.285"
+   id="line615" />
+		
+			<line
+   fill="none"
+   stroke="#000000"
+   stroke-width="3"
+   stroke-miterlimit="10"
+   x1="3359.125"
+   y1="445.961"
+   x2="3359.125"
+   y2="1673"
+   id="line617" />
+		<line
+   fill="none"
+   stroke="#000000"
+   stroke-width="3"
+   stroke-miterlimit="10"
+   x1="2879.25"
+   y1="445.961"
+   x2="2879.25"
+   y2="1673"
+   id="line619" />
+		
+			<line
+   fill="none"
+   stroke="#000000"
+   stroke-width="3"
+   stroke-miterlimit="10"
+   x1="2399.375"
+   y1="445.961"
+   x2="2399.375"
+   y2="1673"
+   id="line621" />
+		<line
+   fill="none"
+   stroke="#000000"
+   stroke-width="3"
+   stroke-miterlimit="10"
+   x1="1919.5"
+   y1="445.961"
+   x2="1919.5"
+   y2="1673"
+   id="line623" />
+		
+			<line
+   fill="none"
+   stroke="#000000"
+   stroke-width="3"
+   stroke-miterlimit="10"
+   x1="1439.625"
+   y1="445.961"
+   x2="1439.625"
+   y2="1673"
+   id="line625" />
+		<line
+   fill="none"
+   stroke="#000000"
+   stroke-width="3"
+   stroke-miterlimit="10"
+   x1="959.75"
+   y1="445.961"
+   x2="959.75"
+   y2="1673"
+   id="line627" />
+		<line
+   fill="none"
+   stroke="#000000"
+   stroke-width="3"
+   stroke-miterlimit="10"
+   x1="479.875"
+   y1="445.961"
+   x2="479.875"
+   y2="1673"
+   id="line629" />
+	</g>
+</g>
+<g
+   id="Camada_6">
+	<g
+   id="g1058">
+		<defs
+   id="defs635">
+			<rect
+   id="SVGID_1_"
+   x="0"
+   y="445.961"
+   width="3829.343"
+   height="1224.48" />
+		</defs>
+		<clipPath
+   id="SVGID_2_">
+			<use
+   xlink:href="#SVGID_1_"
+   overflow="visible"
+   id="use637" />
+		</clipPath>
+		<g
+   clip-path="url(#SVGID_2_)"
+   id="g1056">
+			
+				<rect
+   x="0"
+   y="153.243"
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   width="3829.343"
+   height="1943.229"
+   id="rect640" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="0"
+   y1="2069.903"
+   x2="3829.344"
+   y2="2069.903"
+   id="line642" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="0"
+   y1="2043.337"
+   x2="3829.344"
+   y2="2043.337"
+   id="line644" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="0"
+   y1="2016.769"
+   x2="3829.344"
+   y2="2016.769"
+   id="line646" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="0"
+   y1="1990.201"
+   x2="3829.344"
+   y2="1990.201"
+   id="line648" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="0"
+   y1="1963.158"
+   x2="3829.344"
+   y2="1963.158"
+   id="line650" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="0"
+   y1="1936.592"
+   x2="3829.344"
+   y2="1936.592"
+   id="line652" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="0"
+   y1="1910.023"
+   x2="3829.344"
+   y2="1910.023"
+   id="line654" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="0"
+   y1="1883.457"
+   x2="3829.344"
+   y2="1883.457"
+   id="line656" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="0"
+   y1="1856.889"
+   x2="3829.344"
+   y2="1856.889"
+   id="line658" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="0"
+   y1="1830.321"
+   x2="3829.344"
+   y2="1830.321"
+   id="line660" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="0"
+   y1="1803.754"
+   x2="3829.344"
+   y2="1803.754"
+   id="line662" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="0"
+   y1="1777.187"
+   x2="3829.344"
+   y2="1777.187"
+   id="line664" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="0"
+   y1="1750.618"
+   x2="3829.344"
+   y2="1750.618"
+   id="line666" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="0"
+   y1="1723.576"
+   x2="3829.344"
+   y2="1723.576"
+   id="line668" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="0"
+   y1="1697.008"
+   x2="3829.344"
+   y2="1697.008"
+   id="line670" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="0"
+   y1="1670.441"
+   x2="3829.344"
+   y2="1670.441"
+   id="line672" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="0"
+   y1="1643.875"
+   x2="3829.344"
+   y2="1643.875"
+   id="line674" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="0"
+   y1="1617.306"
+   x2="3829.344"
+   y2="1617.306"
+   id="line676" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="0"
+   y1="1590.738"
+   x2="3829.344"
+   y2="1590.738"
+   id="line678" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="0"
+   y1="1564.172"
+   x2="3829.344"
+   y2="1564.172"
+   id="line680" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="0"
+   y1="1537.604"
+   x2="3829.344"
+   y2="1537.604"
+   id="line682" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="0"
+   y1="1511.036"
+   x2="3829.344"
+   y2="1511.036"
+   id="line684" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="0"
+   y1="1483.994"
+   x2="3829.344"
+   y2="1483.994"
+   id="line686" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="0"
+   y1="1457.426"
+   x2="3829.344"
+   y2="1457.426"
+   id="line688" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="0"
+   y1="1430.859"
+   x2="3829.344"
+   y2="1430.859"
+   id="line690" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="0"
+   y1="1404.291"
+   x2="3829.344"
+   y2="1404.291"
+   id="line692" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="0"
+   y1="1377.723"
+   x2="3829.344"
+   y2="1377.723"
+   id="line694" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="0"
+   y1="1351.156"
+   x2="3829.344"
+   y2="1351.156"
+   id="line696" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="0"
+   y1="1324.588"
+   x2="3829.344"
+   y2="1324.588"
+   id="line698" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="0"
+   y1="1298.021"
+   x2="3829.344"
+   y2="1298.021"
+   id="line700" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="0"
+   y1="1271.453"
+   x2="3829.344"
+   y2="1271.453"
+   id="line702" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="0"
+   y1="1244.411"
+   x2="3829.344"
+   y2="1244.411"
+   id="line704" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="0"
+   y1="1217.844"
+   x2="3829.344"
+   y2="1217.844"
+   id="line706" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="0"
+   y1="1191.276"
+   x2="3829.344"
+   y2="1191.276"
+   id="line708" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="0"
+   y1="1164.709"
+   x2="3829.344"
+   y2="1164.709"
+   id="line710" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="0"
+   y1="1138.142"
+   x2="3829.344"
+   y2="1138.142"
+   id="line712" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="0"
+   y1="1111.573"
+   x2="3829.344"
+   y2="1111.573"
+   id="line714" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="0"
+   y1="1085.006"
+   x2="3829.344"
+   y2="1085.006"
+   id="line716" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="0"
+   y1="1058.438"
+   x2="3829.344"
+   y2="1058.438"
+   id="line718" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="0"
+   y1="1031.871"
+   x2="3829.344"
+   y2="1031.871"
+   id="line720" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="0"
+   y1="1005.303"
+   x2="3829.344"
+   y2="1005.303"
+   id="line722" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="0"
+   y1="978.261"
+   x2="3829.344"
+   y2="978.261"
+   id="line724" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="0"
+   y1="951.694"
+   x2="3829.344"
+   y2="951.694"
+   id="line726" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="0"
+   y1="925.126"
+   x2="3829.344"
+   y2="925.126"
+   id="line728" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="0"
+   y1="898.558"
+   x2="3829.344"
+   y2="898.558"
+   id="line730" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="0"
+   y1="871.991"
+   x2="3829.344"
+   y2="871.991"
+   id="line732" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="0"
+   y1="845.423"
+   x2="3829.344"
+   y2="845.423"
+   id="line734" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="0"
+   y1="818.855"
+   x2="3829.344"
+   y2="818.855"
+   id="line736" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="0"
+   y1="792.288"
+   x2="3829.344"
+   y2="792.288"
+   id="line738" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="0"
+   y1="765.721"
+   x2="3829.344"
+   y2="765.721"
+   id="line740" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="0"
+   y1="738.679"
+   x2="3829.344"
+   y2="738.679"
+   id="line742" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="0"
+   y1="712.111"
+   x2="3829.344"
+   y2="712.111"
+   id="line744" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="0"
+   y1="685.543"
+   x2="3829.344"
+   y2="685.543"
+   id="line746" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="0"
+   y1="658.976"
+   x2="3829.344"
+   y2="658.976"
+   id="line748" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="0"
+   y1="632.408"
+   x2="3829.344"
+   y2="632.408"
+   id="line750" />
+			<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="0"
+   y1="605.84"
+   x2="3829.344"
+   y2="605.84"
+   id="line752" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="0"
+   y1="579.273"
+   x2="3829.344"
+   y2="579.273"
+   id="line754" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="0"
+   y1="552.706"
+   x2="3829.344"
+   y2="552.706"
+   id="line756" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="0"
+   y1="526.138"
+   x2="3829.344"
+   y2="526.138"
+   id="line758" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="0"
+   y1="499.096"
+   x2="3829.344"
+   y2="499.096"
+   id="line760" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="0"
+   y1="472.528"
+   x2="3829.344"
+   y2="472.528"
+   id="line762" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="0"
+   y1="445.961"
+   x2="3829.344"
+   y2="445.961"
+   id="line764" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="0"
+   y1="419.394"
+   x2="3829.344"
+   y2="419.394"
+   id="line766" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="0"
+   y1="392.826"
+   x2="3829.344"
+   y2="392.826"
+   id="line768" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="0"
+   y1="366.258"
+   x2="3829.344"
+   y2="366.258"
+   id="line770" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="0"
+   y1="339.691"
+   x2="3829.344"
+   y2="339.691"
+   id="line772" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="0"
+   y1="313.123"
+   x2="3829.344"
+   y2="313.123"
+   id="line774" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="0"
+   y1="286.555"
+   x2="3829.344"
+   y2="286.555"
+   id="line776" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="0"
+   y1="259.513"
+   x2="3829.344"
+   y2="259.513"
+   id="line778" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="0"
+   y1="232.946"
+   x2="3829.344"
+   y2="232.946"
+   id="line780" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="0"
+   y1="206.378"
+   x2="3829.344"
+   y2="206.378"
+   id="line782" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="0"
+   y1="179.811"
+   x2="3829.344"
+   y2="179.811"
+   id="line784" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="3801.297"
+   y1="153.243"
+   x2="3801.297"
+   y2="2096.472"
+   id="line786" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="3773.25"
+   y1="153.243"
+   x2="3773.25"
+   y2="2096.472"
+   id="line788" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="3745.202"
+   y1="153.243"
+   x2="3745.202"
+   y2="2096.472"
+   id="line790" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="3717.156"
+   y1="153.243"
+   x2="3717.156"
+   y2="2096.472"
+   id="line792" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="3688.174"
+   y1="153.243"
+   x2="3688.174"
+   y2="2096.472"
+   id="line794" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="3660.127"
+   y1="153.243"
+   x2="3660.127"
+   y2="2096.472"
+   id="line796" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="3632.08"
+   y1="153.243"
+   x2="3632.08"
+   y2="2096.472"
+   id="line798" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="3604.033"
+   y1="153.243"
+   x2="3604.033"
+   y2="2096.472"
+   id="line800" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="3575.986"
+   y1="153.243"
+   x2="3575.986"
+   y2="2096.472"
+   id="line802" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="3547.939"
+   y1="153.243"
+   x2="3547.939"
+   y2="2096.472"
+   id="line804" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="3519.893"
+   y1="153.243"
+   x2="3519.893"
+   y2="2096.472"
+   id="line806" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="3491.846"
+   y1="153.243"
+   x2="3491.846"
+   y2="2096.472"
+   id="line808" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="3462.864"
+   y1="153.243"
+   x2="3462.864"
+   y2="2096.472"
+   id="line810" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="3434.816"
+   y1="153.243"
+   x2="3434.816"
+   y2="2096.472"
+   id="line812" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="3406.77"
+   y1="153.243"
+   x2="3406.77"
+   y2="2096.472"
+   id="line814" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="3378.724"
+   y1="153.243"
+   x2="3378.724"
+   y2="2096.472"
+   id="line816" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="3350.676"
+   y1="153.243"
+   x2="3350.676"
+   y2="2096.472"
+   id="line818" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="3322.629"
+   y1="153.243"
+   x2="3322.629"
+   y2="2096.472"
+   id="line820" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="3294.582"
+   y1="153.243"
+   x2="3294.582"
+   y2="2096.472"
+   id="line822" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="3266.535"
+   y1="153.243"
+   x2="3266.535"
+   y2="2096.472"
+   id="line824" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="3238.488"
+   y1="153.243"
+   x2="3238.488"
+   y2="2096.472"
+   id="line826" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="3209.506"
+   y1="153.243"
+   x2="3209.506"
+   y2="2096.472"
+   id="line828" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="3181.46"
+   y1="153.243"
+   x2="3181.46"
+   y2="2096.472"
+   id="line830" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="3153.412"
+   y1="153.243"
+   x2="3153.412"
+   y2="2096.472"
+   id="line832" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="3125.365"
+   y1="153.243"
+   x2="3125.365"
+   y2="2096.472"
+   id="line834" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="3097.318"
+   y1="153.243"
+   x2="3097.318"
+   y2="2096.472"
+   id="line836" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="3069.271"
+   y1="153.243"
+   x2="3069.271"
+   y2="2096.472"
+   id="line838" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="3041.225"
+   y1="153.243"
+   x2="3041.225"
+   y2="2096.472"
+   id="line840" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="3013.178"
+   y1="153.243"
+   x2="3013.178"
+   y2="2096.472"
+   id="line842" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="2984.196"
+   y1="153.243"
+   x2="2984.196"
+   y2="2096.472"
+   id="line844" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="2956.149"
+   y1="153.243"
+   x2="2956.149"
+   y2="2096.472"
+   id="line846" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="2928.102"
+   y1="153.243"
+   x2="2928.102"
+   y2="2096.472"
+   id="line848" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="2900.055"
+   y1="153.243"
+   x2="2900.055"
+   y2="2096.472"
+   id="line850" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="2872.008"
+   y1="153.243"
+   x2="2872.008"
+   y2="2096.472"
+   id="line852" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="2843.961"
+   y1="153.243"
+   x2="2843.961"
+   y2="2096.472"
+   id="line854" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="2815.914"
+   y1="153.243"
+   x2="2815.914"
+   y2="2096.472"
+   id="line856" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="2787.867"
+   y1="153.243"
+   x2="2787.867"
+   y2="2096.472"
+   id="line858" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="2759.82"
+   y1="153.243"
+   x2="2759.82"
+   y2="2096.472"
+   id="line860" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="2730.838"
+   y1="153.243"
+   x2="2730.838"
+   y2="2096.472"
+   id="line862" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="2702.792"
+   y1="153.243"
+   x2="2702.792"
+   y2="2096.472"
+   id="line864" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="2674.744"
+   y1="153.243"
+   x2="2674.744"
+   y2="2096.472"
+   id="line866" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="2646.697"
+   y1="153.243"
+   x2="2646.697"
+   y2="2096.472"
+   id="line868" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="2618.651"
+   y1="153.243"
+   x2="2618.651"
+   y2="2096.472"
+   id="line870" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="2590.604"
+   y1="153.243"
+   x2="2590.604"
+   y2="2096.472"
+   id="line872" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="2562.557"
+   y1="153.243"
+   x2="2562.557"
+   y2="2096.472"
+   id="line874" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="2534.51"
+   y1="153.243"
+   x2="2534.51"
+   y2="2096.472"
+   id="line876" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="2505.528"
+   y1="153.243"
+   x2="2505.528"
+   y2="2096.472"
+   id="line878" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="2477.48"
+   y1="153.243"
+   x2="2477.48"
+   y2="2096.472"
+   id="line880" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="2449.434"
+   y1="153.243"
+   x2="2449.434"
+   y2="2096.472"
+   id="line882" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="2421.388"
+   y1="153.243"
+   x2="2421.388"
+   y2="2096.472"
+   id="line884" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="2393.34"
+   y1="153.243"
+   x2="2393.34"
+   y2="2096.472"
+   id="line886" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="2365.293"
+   y1="153.243"
+   x2="2365.293"
+   y2="2096.472"
+   id="line888" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="2337.246"
+   y1="153.243"
+   x2="2337.246"
+   y2="2096.472"
+   id="line890" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="2309.199"
+   y1="153.243"
+   x2="2309.199"
+   y2="2096.472"
+   id="line892" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="2281.152"
+   y1="153.243"
+   x2="2281.152"
+   y2="2096.472"
+   id="line894" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="2252.17"
+   y1="153.243"
+   x2="2252.17"
+   y2="2096.472"
+   id="line896" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="2224.124"
+   y1="153.243"
+   x2="2224.124"
+   y2="2096.472"
+   id="line898" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="2196.077"
+   y1="153.243"
+   x2="2196.077"
+   y2="2096.472"
+   id="line900" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="2168.029"
+   y1="153.243"
+   x2="2168.029"
+   y2="2096.472"
+   id="line902" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="2139.982"
+   y1="153.243"
+   x2="2139.982"
+   y2="2096.472"
+   id="line904" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="2111.936"
+   y1="153.243"
+   x2="2111.936"
+   y2="2096.472"
+   id="line906" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="2083.889"
+   y1="153.243"
+   x2="2083.889"
+   y2="2096.472"
+   id="line908" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="2055.842"
+   y1="153.243"
+   x2="2055.842"
+   y2="2096.472"
+   id="line910" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="2026.86"
+   y1="153.243"
+   x2="2026.86"
+   y2="2096.472"
+   id="line912" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="1998.813"
+   y1="153.243"
+   x2="1998.813"
+   y2="2096.472"
+   id="line914" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="1970.766"
+   y1="153.243"
+   x2="1970.766"
+   y2="2096.472"
+   id="line916" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="1942.72"
+   y1="153.243"
+   x2="1942.72"
+   y2="2096.472"
+   id="line918" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="1914.672"
+   y1="153.243"
+   x2="1914.672"
+   y2="2096.472"
+   id="line920" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="1886.625"
+   y1="153.243"
+   x2="1886.625"
+   y2="2096.472"
+   id="line922" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="1858.579"
+   y1="153.243"
+   x2="1858.579"
+   y2="2096.472"
+   id="line924" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="1830.531"
+   y1="153.243"
+   x2="1830.531"
+   y2="2096.472"
+   id="line926" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="1802.484"
+   y1="153.243"
+   x2="1802.484"
+   y2="2096.472"
+   id="line928" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="1773.502"
+   y1="153.243"
+   x2="1773.502"
+   y2="2096.472"
+   id="line930" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="1745.456"
+   y1="153.243"
+   x2="1745.456"
+   y2="2096.472"
+   id="line932" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="1717.409"
+   y1="153.243"
+   x2="1717.409"
+   y2="2096.472"
+   id="line934" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="1689.362"
+   y1="153.243"
+   x2="1689.362"
+   y2="2096.472"
+   id="line936" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="1661.314"
+   y1="153.243"
+   x2="1661.314"
+   y2="2096.472"
+   id="line938" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="1633.268"
+   y1="153.243"
+   x2="1633.268"
+   y2="2096.472"
+   id="line940" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="1605.221"
+   y1="153.243"
+   x2="1605.221"
+   y2="2096.472"
+   id="line942" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="1577.174"
+   y1="153.243"
+   x2="1577.174"
+   y2="2096.472"
+   id="line944" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="1548.192"
+   y1="153.243"
+   x2="1548.192"
+   y2="2096.472"
+   id="line946" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="1520.145"
+   y1="153.243"
+   x2="1520.145"
+   y2="2096.472"
+   id="line948" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="1492.098"
+   y1="153.243"
+   x2="1492.098"
+   y2="2096.472"
+   id="line950" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="1464.052"
+   y1="153.243"
+   x2="1464.052"
+   y2="2096.472"
+   id="line952" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="1436.004"
+   y1="153.243"
+   x2="1436.004"
+   y2="2096.472"
+   id="line954" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="1407.958"
+   y1="153.243"
+   x2="1407.958"
+   y2="2096.472"
+   id="line956" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="1379.91"
+   y1="153.243"
+   x2="1379.91"
+   y2="2096.472"
+   id="line958" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="1351.863"
+   y1="153.243"
+   x2="1351.863"
+   y2="2096.472"
+   id="line960" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="1323.816"
+   y1="153.243"
+   x2="1323.816"
+   y2="2096.472"
+   id="line962" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="1294.835"
+   y1="153.243"
+   x2="1294.835"
+   y2="2096.472"
+   id="line964" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="1266.788"
+   y1="153.243"
+   x2="1266.788"
+   y2="2096.472"
+   id="line966" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="1238.741"
+   y1="153.243"
+   x2="1238.741"
+   y2="2096.472"
+   id="line968" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="1210.694"
+   y1="153.243"
+   x2="1210.694"
+   y2="2096.472"
+   id="line970" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="1182.646"
+   y1="153.243"
+   x2="1182.646"
+   y2="2096.472"
+   id="line972" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="1154.6"
+   y1="153.243"
+   x2="1154.6"
+   y2="2096.472"
+   id="line974" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="1126.553"
+   y1="153.243"
+   x2="1126.553"
+   y2="2096.472"
+   id="line976" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="1098.506"
+   y1="153.243"
+   x2="1098.506"
+   y2="2096.472"
+   id="line978" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="1069.524"
+   y1="153.243"
+   x2="1069.524"
+   y2="2096.472"
+   id="line980" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="1041.478"
+   y1="153.243"
+   x2="1041.478"
+   y2="2096.472"
+   id="line982" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="1013.43"
+   y1="153.243"
+   x2="1013.43"
+   y2="2096.472"
+   id="line984" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="985.383"
+   y1="153.243"
+   x2="985.383"
+   y2="2096.472"
+   id="line986" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="957.336"
+   y1="153.243"
+   x2="957.336"
+   y2="2096.472"
+   id="line988" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="929.29"
+   y1="153.243"
+   x2="929.29"
+   y2="2096.472"
+   id="line990" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="901.242"
+   y1="153.243"
+   x2="901.242"
+   y2="2096.472"
+   id="line992" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="873.195"
+   y1="153.243"
+   x2="873.195"
+   y2="2096.472"
+   id="line994" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="845.148"
+   y1="153.243"
+   x2="845.148"
+   y2="2096.472"
+   id="line996" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="816.167"
+   y1="153.243"
+   x2="816.167"
+   y2="2096.472"
+   id="line998" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="788.12"
+   y1="153.243"
+   x2="788.12"
+   y2="2096.472"
+   id="line1000" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="760.073"
+   y1="153.243"
+   x2="760.073"
+   y2="2096.472"
+   id="line1002" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="732.026"
+   y1="153.243"
+   x2="732.026"
+   y2="2096.472"
+   id="line1004" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="703.979"
+   y1="153.243"
+   x2="703.979"
+   y2="2096.472"
+   id="line1006" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="675.932"
+   y1="153.243"
+   x2="675.932"
+   y2="2096.472"
+   id="line1008" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="647.885"
+   y1="153.243"
+   x2="647.885"
+   y2="2096.472"
+   id="line1010" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="619.838"
+   y1="153.243"
+   x2="619.838"
+   y2="2096.472"
+   id="line1012" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="590.856"
+   y1="153.243"
+   x2="590.856"
+   y2="2096.472"
+   id="line1014" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="562.81"
+   y1="153.243"
+   x2="562.81"
+   y2="2096.472"
+   id="line1016" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="534.763"
+   y1="153.243"
+   x2="534.763"
+   y2="2096.472"
+   id="line1018" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="506.715"
+   y1="153.243"
+   x2="506.715"
+   y2="2096.472"
+   id="line1020" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="478.668"
+   y1="153.243"
+   x2="478.668"
+   y2="2096.472"
+   id="line1022" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="450.622"
+   y1="153.243"
+   x2="450.622"
+   y2="2096.472"
+   id="line1024" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="422.574"
+   y1="153.243"
+   x2="422.574"
+   y2="2096.472"
+   id="line1026" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="394.527"
+   y1="153.243"
+   x2="394.527"
+   y2="2096.472"
+   id="line1028" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="366.48"
+   y1="153.243"
+   x2="366.48"
+   y2="2096.472"
+   id="line1030" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="337.499"
+   y1="153.243"
+   x2="337.499"
+   y2="2096.472"
+   id="line1032" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="309.452"
+   y1="153.243"
+   x2="309.452"
+   y2="2096.472"
+   id="line1034" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="281.405"
+   y1="153.243"
+   x2="281.405"
+   y2="2096.472"
+   id="line1036" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="253.358"
+   y1="153.243"
+   x2="253.358"
+   y2="2096.472"
+   id="line1038" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="225.311"
+   y1="153.243"
+   x2="225.311"
+   y2="2096.472"
+   id="line1040" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="197.264"
+   y1="153.243"
+   x2="197.264"
+   y2="2096.472"
+   id="line1042" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="169.217"
+   y1="153.243"
+   x2="169.217"
+   y2="2096.472"
+   id="line1044" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="141.17"
+   y1="153.243"
+   x2="141.17"
+   y2="2096.472"
+   id="line1046" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="112.188"
+   y1="153.243"
+   x2="112.188"
+   y2="2096.472"
+   id="line1048" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="84.142"
+   y1="153.243"
+   x2="84.142"
+   y2="2096.472"
+   id="line1050" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="56.095"
+   y1="153.243"
+   x2="56.095"
+   y2="2096.472"
+   id="line1052" />
+			
+				<line
+   fill="none"
+   stroke="#706F6F"
+   stroke-width="0.25"
+   stroke-miterlimit="10"
+   x1="28.047"
+   y1="153.243"
+   x2="28.047"
+   y2="2096.472"
+   id="line1054" />
+		</g>
+	</g>
+</g>
+<g
+   id="Camada_3"
+   transform="matrix(0.99790268,0,0,1,8.1347501,0)">
+	<g
+   id="g1063"
+   transform="matrix(0.99033026,0,0,1,-4.008407,-4)">
+		<path
+   fill="#a3195b"
+   d="m 3044.813,1545.726 -14.289,-306.685 -10.055,224.048 -9.971,0.261 -3.988,-40.843 h -38.486 l -0.342,-4.632 c -0.02,-0.254 -2.188,-26.028 -17.926,-26.028 -0.098,0 -0.197,10e-4 -0.297,0 -4.031,0.082 -7.184,1.396 -9.637,4.019 -6.695,7.161 -6.121,21.255 -6.115,21.396 l 0.244,5.232 -5.238,0.01 h -192.082 l -3.281,-5.581 c -17.916,-30.486 -25.918,-42.862 -42.961,-42.743 -20.26,0.128 -40.322,29.927 -46.086,45.1 l -1.225,3.225 h -3.449 c -5.063,0 -10.65,0.028 -16.289,0.057 -11.391,0.059 -23.168,0.116 -31.121,-0.058 -0.025,-10e-4 -0.053,-10e-4 -0.08,-10e-4 -2.061,0 -6.648,1.681 -8.373,3.752 -9.793,11.752 -12.754,60.153 -13.02,76.183 l -9.996,0.11 -10.141,-261.789 c -0.908,17.236 -1.873,35.331 -2.855,53.369 -2.598,47.707 -4.801,85.73 -6.551,113.014 -1.041,16.223 -1.93,28.789 -2.645,37.352 -0.387,4.648 -0.732,8.229 -1.027,10.643 -0.426,3.498 -0.957,7.851 -5.418,8.108 -1.713,0.1 -4.768,-0.778 -5.422,-4.695 -2.453,-14.719 -7.58,-31.608 -10.313,-36.058 -0.762,-0.01 -1.637,-0.023 -2.605,-0.038 -5.162,-0.081 -12.963,-0.204 -20.83,0.049 l -4.65,0.15 -0.484,-4.627 c -1.148,-10.968 -10.922,-25.918 -19.344,-26.18 -0.084,0 -0.168,0 -0.252,0 -9.326,0 -19.131,15.799 -21.24,26.62 l -0.785,4.03 -4.107,0.013 c -5.285,0.016 -16.123,0 -16.123,0 h -130.84 c -1.795,0.087 -17.324,0.647 -35.582,-3.844 -20.848,-5.13 -36.799,-31.715 -42.039,-40.451 -2.461,-4.103 -5.916,-6.454 -9.99,-6.8 -5.385,-0.459 -11.471,2.607 -16.273,8.198 -0.758,0.881 -1.871,2.247 -3.283,3.978 -19.051,23.354 -34.09,38.92 -45.451,38.921 -0.1,0 -0.197,-10e-4 -0.295,0 -5.25,-0.028 -23.84,-0.034 -32.488,0 -0.77,0.77 -1.891,2.265 -2.363,2.896 -0.051,0.068 -0.102,0.135 -0.15,0.2 -4.146,10.032 -14.533,59.294 -18.246,77.744 l -8.008,39.784 -14.166,-304.082 -10.055,224.044 -9.973,0.261 -3.988,-40.843 h -38.486 l -0.342,-4.632 c -0.02,-0.254 -2.186,-26.028 -17.926,-26.028 -0.098,0 -0.197,10e-4 -0.297,0 -4.031,0.082 -7.184,1.396 -9.635,4.019 -6.697,7.161 -6.123,21.255 -6.115,21.396 l 0.244,5.232 -5.238,0.01 h -65.583 c -11.157,0 -23.794,0.13 -37.174,0.268 -28.715,0.295 -61.261,0.63 -88.321,-0.271 l -2.748,-0.092 -3.226,-5.483 c -17.916,-30.487 -25.889,-42.896 -42.959,-42.746 -20.262,0.128 -40.325,29.927 -46.088,45.1 l -1.225,3.225 h -3.449 c -5.062,0 -10.65,0.028 -16.289,0.057 -11.392,0.059 -23.17,0.116 -31.121,-0.058 -0.026,-10e-4 -0.054,-10e-4 -0.081,-10e-4 -2.061,0 -6.647,1.681 -8.372,3.752 -9.835,11.803 -12.734,58.995 -13.021,76.183 l -9.996,0.11 -10.14,-261.786 c -0.908,17.236 -1.874,35.328 -2.856,53.366 -2.598,47.707 -4.803,85.73 -6.552,113.014 -1.04,16.223 -1.93,28.789 -2.644,37.352 -0.387,4.648 -0.733,8.229 -1.028,10.643 -0.426,3.498 -0.957,7.851 -5.418,8.108 -1.72,0.099 -4.769,-0.779 -5.421,-4.695 -2.453,-14.72 -7.58,-31.61 -10.313,-36.058 -0.761,-0.01 -1.635,-0.023 -2.605,-0.038 -5.162,-0.081 -12.962,-0.204 -20.83,0.049 l -4.65,0.15 -0.484,-4.627 c -1.149,-10.968 -10.923,-25.918 -19.344,-26.18 -0.083,0 -0.168,0 -0.251,0 -9.325,0 -19.13,15.799 -21.241,26.62 l -0.787,4.03 -4.106,0.013 c -5.283,0.014 -16.121,0 -16.122,0 h -130.63 c -2.419,0.311 -15.788,1.818 -34.216,-0.024 -18.593,-1.861 -32.959,-26.221 -41.543,-40.775 -0.734,-1.245 -1.425,-2.417 -2.072,-3.495 -2.461,-4.103 -5.916,-6.454 -9.989,-6.8 -5.395,-0.452 -11.471,2.608 -16.274,8.198 -0.756,0.881 -1.87,2.246 -3.281,3.976 -19.216,23.558 -34.334,39.162 -45.749,38.92 -5.489,-0.031 -25.551,-0.035 -33.6,10e-4 -0.763,0.02 -1.52,-0.108 -2.187,-0.247 -4.093,12.701 -12.437,54.086 -17.448,81.012 l -7.9,42.452 -14.287,-306.678 -10.055,224.043 -9.971,0.261 -3.989,-40.843 h -38.487 l -0.342,-4.632 c -0.019,-0.254 -2.187,-26.028 -17.925,-26.028 -0.099,0 -0.197,0 -0.296,0 -4.032,0.082 -7.184,1.396 -9.636,4.019 -6.696,7.161 -6.121,21.255 -6.114,21.396 l 0.244,5.232 -5.238,0.01 H 807.456 l -3.284,-5.582 c -17.915,-30.484 -25.883,-42.895 -42.958,-42.742 -20.262,0.128 -40.325,29.927 -46.088,45.1 l -1.225,3.225 h -3.449 c -5.062,0 -10.649,0.028 -16.288,0.057 -11.391,0.059 -23.17,0.116 -31.122,-0.058 -1.583,-0.036 -3.2,-0.443 -4.764,-0.837 -1.088,-0.274 -3.034,-0.773 -3.896,-0.704 -9.626,12.24 -12.548,64.124 -12.812,81.468 l -9.995,0.117 -10.14,-261.788 c -0.909,17.236 -1.875,35.33 -2.856,53.368 -2.598,47.707 -4.803,85.73 -6.552,113.014 -1.04,16.223 -1.929,28.789 -2.644,37.352 -0.388,4.648 -0.733,8.229 -1.028,10.643 -0.426,3.498 -0.957,7.851 -5.418,8.108 -1.706,0.1 -4.769,-0.778 -5.421,-4.694 -2.452,-14.721 -7.579,-31.611 -10.312,-36.059 -0.761,-0.01 -1.636,-0.023 -2.605,-0.038 -5.162,-0.081 -12.962,-0.204 -20.83,0.049 l -4.65,0.15 -0.485,-4.627 c -1.148,-10.968 -10.922,-25.918 -19.343,-26.18 -0.083,0 -0.168,0 -0.251,0 -9.326,0 -19.131,15.799 -21.242,26.62 l -0.786,4.03 -4.107,0.013 c -5.282,0.014 -16.122,0 -16.122,0 H 366.504 c -3.474,0.92 -17.853,4.136 -35.266,-0.145 -15.868,-3.906 -25.128,-21.384 -32.569,-35.428 -1.695,-3.199 -3.296,-6.221 -4.797,-8.723 -2.461,-4.103 -5.916,-6.454 -9.99,-6.8 -5.389,-0.452 -11.471,2.608 -16.274,8.198 -2.841,3.307 -12.536,14.021 -23.137,23.758 -18.917,17.376 -26.987,19.231 -31.444,19.138 -5.489,-0.031 -25.551,-0.035 -33.6,10e-4 -0.795,0.02 -1.521,-0.108 -2.188,-0.247 -4.092,12.7 -12.436,54.086 -17.448,81.012 l -7.9,42.45 -14.288,-306.675 -10.054,224.042 -9.971,0.261 -3.989,-40.843 H 75.104 l -0.342,-4.632 c -0.02,-0.256 -2.256,-26.381 -18.223,-26.025 -4.032,0.082 -7.184,1.396 -9.636,4.019 -6.696,7.161 -6.121,21.255 -6.115,21.396 l 0.244,5.232 -5.238,0.01 H 0 v -10 h 30.911 c 0.442,-6.191 2.19,-16.493 8.657,-23.435 4.334,-4.652 9.976,-7.082 16.768,-7.221 0.179,0 0.357,-0.01 0.534,-0.01 17.658,0 25.17,18.006 27.297,30.661 h 35.643 l 12.706,-283.132 9.99,-0.01 15.438,331.385 c 4.006,-19.379 8.536,-39.476 11.178,-45.308 l 0.24,-0.53 0.355,-0.46 c 2.794,-3.625 7.067,-2.587 8.893,-2.141 0.274,0.066 0.679,0.165 0.863,0.193 8.137,-0.036 28.125,-0.031 33.703,0 0.032,10e-4 0.065,10e-4 0.098,10e-4 8.02,0 32.559,-22.896 46.75,-39.414 6.994,-8.14 15.998,-12.392 24.705,-11.646 7.303,0.619 13.596,4.746 17.719,11.619 1.638,2.729 3.299,5.865 5.058,9.186 6.507,12.28 14.604,27.563 26.122,30.398 16.824,4.14 30.608,0.111 30.746,0.07 l 0.703,-0.211 h 0.747 130.967 c 0.007,0 6.763,0.014 12.193,0.01 4.113,-13.822 15.837,-30.668 30.063,-30.668 0.185,0 0.367,0 0.553,0.01 13.636,0.424 24.899,17.224 28.164,30.551 6.546,-0.112 12.676,-0.017 16.994,0.053 1.756,0.028 3.187,0.051 4.181,0.051 4.584,0 7.676,4.335 11.615,16.45 4.18,-59.169 11.636,-199.801 16.588,-299.605 l 9.99,0.055 11.767,303.78 c 2.047,-8.081 4.666,-14.866 8.012,-18.881 4,-4.806 10.142,-3.259 13.813,-2.334 0.882,0.222 2.089,0.526 2.545,0.536 7.814,0.173 19.523,0.112 30.848,0.057 4.439,-0.023 8.849,-0.045 12.995,-0.054 7.591,-17.126 28.872,-48.17 54.042,-48.328 23.559,-0.121 34.117,17.852 51.643,47.676 l 0.382,0.648 h 181.479 c 0.442,-6.191 2.19,-16.493 8.657,-23.436 4.333,-4.651 9.975,-7.081 16.767,-7.22 18.014,-0.398 25.683,17.873 27.831,30.655 h 35.644 l 12.707,-283.132 9.989,-0.01 15.438,331.385 c 4.007,-19.378 8.536,-39.476 11.179,-45.309 l 0.239,-0.529 0.355,-0.46 c 2.794,-3.625 7.067,-2.587 8.893,-2.141 0.274,0.066 0.678,0.165 0.862,0.193 8.137,-0.036 28.125,-0.032 33.703,0 1.302,0.058 6.177,-0.796 18.042,-12.681 7.684,-7.696 15.274,-17.002 19.81,-22.562 1.456,-1.785 2.605,-3.194 3.445,-4.171 6.994,-8.14 16,-12.392 24.705,-11.646 7.303,0.619 13.595,4.746 17.719,11.619 0.659,1.098 1.363,2.291 2.11,3.56 7.122,12.074 20.376,34.549 33.925,35.904 18.684,1.87 32.058,0.043 32.191,0.024 l 0.7,-0.049 h 130.967 c 0.01,0 6.757,0.011 12.193,0.01 4.112,-13.822 15.836,-30.668 30.063,-30.668 0.185,0 0.367,0 0.552,0.01 13.637,0.423 24.9,17.224 28.165,30.551 6.544,-0.112 12.676,-0.016 16.994,0.053 1.756,0.028 3.187,0.051 4.181,0.051 4.584,0 7.676,4.334 11.615,16.45 4.18,-59.169 11.636,-199.801 16.588,-299.605 l 9.99,0.055 11.93,307.993 c 2.023,-7.375 4.591,-13.633 7.849,-17.543 3.896,-4.679 11.532,-7.442 16.359,-7.349 7.813,0.172 19.522,0.112 30.847,0.057 4.44,-0.023 8.85,-0.045 12.997,-0.054 7.591,-17.126 28.872,-48.17 54.042,-48.328 0.096,0 0.195,0 0.292,0 23.336,0 33.897,17.976 51.353,47.681 l 0.432,0.733 c 26.288,0.784 57.495,0.463 85.139,0.18 13.407,-0.139 26.069,-0.269 37.277,-0.269 h 60.701 c 0.441,-6.191 2.189,-16.493 8.656,-23.435 4.334,-4.652 9.975,-7.082 16.768,-7.221 0.18,0 0.357,-0.01 0.533,-0.01 17.66,0 25.172,18.006 27.297,30.661 h 35.645 l 12.705,-283.132 9.99,-0.01 15.553,333.813 c 3.979,-17.887 8.451,-36.418 11.064,-42.187 l 0.24,-0.529 0.354,-0.46 c 0.135,-0.173 0.287,-0.378 0.457,-0.604 2.818,-3.76 5.457,-6.873 9.203,-6.894 8.074,-0.036 28.197,-0.032 33.799,0 1.27,0.062 6.18,-0.799 18.039,-12.68 7.684,-7.694 15.273,-17.001 19.811,-22.561 1.455,-1.785 2.605,-3.195 3.447,-4.173 6.992,-8.14 16.002,-12.392 24.703,-11.646 7.303,0.619 13.596,4.746 17.719,11.619 4.713,7.854 19.049,31.751 35.854,35.885 17.496,4.305 32.654,3.568 32.809,3.562 l 0.266,-0.01 h 130.967 c 0.01,0 6.756,0.011 12.193,0.01 4.109,-13.822 15.834,-30.668 30.063,-30.668 0.184,0 0.367,0 0.553,0.01 13.637,0.424 24.898,17.224 28.164,30.551 6.547,-0.112 12.676,-0.017 16.992,0.053 1.758,0.028 3.188,0.051 4.182,0.051 4.584,0 7.676,4.336 11.615,16.451 4.18,-59.168 11.637,-199.802 16.588,-299.606 l 9.99,0.055 11.93,307.992 c 2.023,-7.374 4.59,-13.632 7.85,-17.542 3.896,-4.679 11.535,-7.442 16.359,-7.349 7.811,0.173 19.523,0.112 30.846,0.057 4.439,-0.023 8.85,-0.045 12.996,-0.054 7.592,-17.126 28.871,-48.17 54.041,-48.328 0.096,0 0.195,-10e-4 0.291,-10e-4 23.338,0 33.898,17.975 51.354,47.678 l 0.381,0.647 h 181.479 c 0.441,-6.191 2.191,-16.493 8.658,-23.435 4.334,-4.652 9.975,-7.082 16.768,-7.221 0.18,0 0.357,-0.01 0.533,-0.01 17.658,0 25.17,18.006 27.297,30.661 h 35.643 l 12.707,-283.132 9.99,-0.01 15.439,331.382 c 4.006,-19.376 8.535,-39.474 11.176,-45.306 l 0.24,-0.53 0.355,-0.461 c 2.797,-3.622 7.07,-2.583 8.893,-2.139 0.273,0.066 0.678,0.165 0.861,0.193 8.135,-0.037 28.123,-0.032 33.705,0 0.02,10e-4 0.041,10e-4 0.064,10e-4 1.395,0 6.303,-0.988 17.975,-12.68 7.684,-7.695 15.273,-17.001 19.811,-22.561 1.455,-1.786 2.605,-3.196 3.445,-4.174 6.994,-8.142 15.996,-12.392 24.705,-11.646 7.303,0.619 13.596,4.746 17.719,11.619 4.793,7.988 19.385,32.302 35.889,36.363 17.414,4.283 32.471,3.104 32.621,3.094 l 0.416,-0.018 h 130.969 c 0.01,0 6.766,0.013 12.193,0.01 4.111,-13.822 15.836,-30.668 30.063,-30.668 0.184,0 0.367,0 0.553,0.01 13.633,0.423 24.896,17.224 28.164,30.551 6.545,-0.112 12.676,-0.017 16.992,0.053 1.756,0.028 3.188,0.051 4.182,0.051 4.584,0 7.676,4.337 11.615,16.454 4.18,-59.169 11.635,-199.805 16.586,-299.609 l 9.99,0.055 11.932,307.994 c 2.023,-7.374 4.592,-13.634 7.85,-17.544 3.895,-4.679 11.537,-7.455 16.359,-7.349 7.813,0.173 19.521,0.112 30.844,0.057 4.441,-0.023 8.852,-0.045 12.998,-0.054 7.592,-17.126 28.871,-48.17 54.041,-48.328 0.096,0 0.195,-10e-4 0.291,-10e-4 23.338,0 33.898,17.975 51.354,47.678 l 0.432,0.734 c 29.205,0.828 87.137,0.43 129.797,0.138 17.533,-0.12 32.676,-0.225 42.678,-0.225 v 10 c -9.969,0 -25.094,0.104 -42.609,0.225 -44.125,0.303 -104.563,0.717 -132.943,-0.228 l -2.748,-0.092 -3.227,-5.486 c -17.836,-30.352 -25.799,-42.744 -42.736,-42.744 -0.074,0 -0.148,10e-4 -0.223,10e-4 -20.264,0.128 -40.324,29.927 -46.088,45.1 l -1.225,3.225 h -3.449 c -5.063,0 -10.652,0.028 -16.291,0.057 -11.389,0.059 -23.166,0.116 -31.119,-0.058 -0.025,0 -0.053,0 -0.08,0 -2.061,0 -6.646,1.681 -8.373,3.752 -9.793,11.752 -12.754,60.153 -13.02,76.183 l -9.996,0.11 -10.141,-261.784 c -0.908,17.236 -1.873,35.326 -2.855,53.364 -2.598,47.707 -4.803,85.73 -6.551,113.014 -1.041,16.223 -1.93,28.789 -2.645,37.352 -0.387,4.648 -0.732,8.229 -1.027,10.643 -0.426,3.498 -0.957,7.851 -5.418,8.108 -1.721,0.1 -4.77,-0.78 -5.422,-4.695 -2.455,-14.721 -7.582,-31.61 -10.314,-36.058 -0.762,-0.01 -1.635,-0.023 -2.605,-0.038 -5.158,-0.081 -12.961,-0.204 -20.828,0.049 l -4.648,0.15 -0.486,-4.626 c -1.15,-10.969 -10.924,-25.919 -19.344,-26.181 -0.084,0 -0.168,0 -0.252,0 -9.324,0 -19.131,15.799 -21.24,26.62 l -0.787,4.03 -4.105,0.013 c -5.283,0.014 -16.125,-10e-4 -16.123,0 h -130.77 c -2.135,0.156 -17.535,1.082 -35.617,-3.365 -18.418,-4.533 -32.834,-25.53 -42.076,-40.93 -2.461,-4.104 -5.916,-6.454 -9.988,-6.8 -5.396,-0.452 -11.469,2.607 -16.273,8.198 -0.758,0.881 -1.871,2.248 -3.283,3.979 -19.051,23.353 -34.088,38.919 -45.451,38.92 -0.1,0 -0.197,-10e-4 -0.295,0 -5.49,-0.031 -25.551,-0.035 -33.602,10e-4 -0.814,-0.01 -1.52,-0.109 -2.186,-0.247 -4.092,12.7 -12.438,54.086 -17.447,81.012 z"
+   id="path1061" />
+	</g>
+	<rect
+   x="-9.6549997"
+   y="972.73901"
+   opacity="0.3"
+   fill="#a3195b"
+   width="3849.655"
+   height="700.26099"
+   id="rect1065" />
+</g>
+<g
+   id="Camada_1"
+   transform="matrix(0.99788134,0,0,1,13.951195,0)">
+	<rect
+   x="-15.484"
+   y="445.961"
+   opacity="0.3"
+   fill="#f9d7e8"
+   width="3849.656"
+   height="534.08899"
+   id="rect1068" />
+	<path
+   fill="none"
+   stroke="#e82d88"
+   stroke-width="4.98973"
+   stroke-linecap="square"
+   stroke-linejoin="round"
+   stroke-miterlimit="10"
+   d="m -10.019,816.58 c 14.6765144,0 49.014001,2.703 59.941964,-2.678 17.81259,-8.769 1.780661,-22.705 18.78558,-26.917 26.717889,-6.618 45.412846,51.018 78.603056,48.872 54.51035,-3.524 38.05815,-122.651 40.02903,-161.662 2.90204,-0.665 0,0 2.90204,0.634 2.55945,20.504 7.58275,2.81 14.04412,17.945 1.11839,13.216 -2.47181,52.716 -0.49098,69.548 1.08752,9.248 6.45839,1.383 6.12277,14.718 -0.43919,17.412 1.92108,40.749 1.73684,57.789 -0.17826,16.499 0.23006,35.271 0.49198,58.538 7.92035,-21.537 35.58136,-54.259 54.03331,-57.059 43.52363,-6.601 51.71288,8.769 83.23497,35.759 14.28413,-27.693 48.30891,-53.989 80.83287,-55.488 h 31.67247 c 14.67651,0 49.014,2.703 59.94196,-2.678 17.81259,-8.769 1.78066,-22.705 18.78558,-26.917 26.71789,-6.618 45.41284,51.018 78.60306,48.872 54.51034,-3.524 38.05715,-122.651 40.02803,-161.662 2.90104,-0.665 0,0 2.90104,0.634 2.56045,20.504 7.58375,2.81 14.04412,17.945 1.11939,13.216 -2.47081,52.716 -0.49097,69.548 1.08851,9.248 6.45938,1.383 6.12276,14.718 -0.43919,17.412 1.92009,40.749 1.73685,57.789 -0.17926,16.499 0.23005,35.271 0.49097,58.538 7.92136,-21.537 35.58136,-54.259 54.03431,-57.059 43.52264,-6.601 51.71288,8.769 83.23497,35.759 14.28314,-27.693 48.30891,-53.989 80.83287,-55.488 h 38.7991 c 14.67651,0 49.014,2.703 59.94193,-2.678 17.8126,-8.769 1.7807,-22.705 18.7856,-26.917 26.7179,-6.618 45.4129,51.018 78.6031,48.872 54.5093,-3.524 38.0571,-122.651 40.028,-161.662 2.901,-0.665 0,0 2.901,0.634 2.5595,20.504 7.5838,2.81 14.0442,17.945 1.1194,13.216 -2.4708,52.716 -0.491,69.548 1.0885,9.248 6.4594,1.383 6.1228,14.718 -0.4392,17.412 1.921,40.749 1.7368,57.789 -0.1793,16.499 0.2291,35.271 0.491,58.538 7.9203,-21.537 35.5803,-54.259 54.0343,-57.059 43.5226,-6.601 51.7129,8.769 83.235,35.759 14.2831,-27.693 48.3089,-53.989 80.8328,-55.488 h 31.6715 c 14.6775,0 49.015,2.703 59.942,-2.678 17.8125,-8.769 1.7806,-22.705 18.7855,-26.917 26.7179,-6.618 45.4129,51.018 78.6031,48.872 54.5103,-3.524 38.0581,-122.651 40.029,-161.662 2.9011,-0.665 0,0 2.9011,0.634 2.5594,20.504 7.5827,2.81 14.0441,17.945 1.1194,13.216 -2.4708,52.716 -0.491,69.548 1.0875,9.248 6.4584,1.383 6.1228,14.718 -0.4392,17.412 1.9211,40.749 1.7368,57.789 -0.1782,16.499 0.2301,35.271 0.491,58.538 7.9214,-21.537 35.5814,-54.259 54.0343,-57.059 43.5226,-6.601 51.7119,8.769 83.235,35.759 14.2841,-27.693 48.3079,-53.989 80.8328,-55.488 h 28.3761 c 14.6765,0 49.015,2.703 59.942,-2.678 17.8126,-8.769 1.7806,-22.705 18.7845,-26.917 26.7179,-6.618 45.4139,39.18 78.6031,37.034 54.5094,-3.524 38.0592,-122.65 40.028,-161.661 2.9021,-0.665 0,0 2.9021,0.634 2.5594,20.504 7.5837,2.809 14.0441,17.945 1.1194,13.215 -2.4718,52.715 -0.491,69.547 1.0885,9.249 6.4584,1.383 6.1228,14.719 -0.4392,17.412 1.9211,40.748 1.7368,57.789 -0.1792,16.499 0.2291,35.271 0.491,58.538 7.9204,-21.537 35.5804,-54.259 54.0343,-57.058 43.5227,-6.601 51.7129,8.769 83.235,35.758 14.2831,-27.693 48.3079,-53.989 80.8319,-55.488 h 31.6724 c 14.6775,0 49.015,2.703 59.943,-2.679 17.8116,-8.769 1.7797,-22.705 18.7846,-26.916 26.7169,-6.619 45.4128,51.018 78.603,48.872 54.5104,-3.524 38.0582,-122.65 40.0281,-161.661 2.901,-0.665 0,0 2.901,0.634 2.5605,20.504 7.5838,2.809 14.0451,17.945 1.1184,13.215 -2.4708,52.715 -0.491,69.547 1.0886,9.249 6.4574,1.383 6.1218,14.719 -0.4382,17.412 1.9221,40.748 1.7369,57.789 -0.1783,16.499 0.23,35.271 0.4909,58.538 7.9214,-21.537 35.5824,-54.259 54.0353,-57.058 43.5217,-6.601 51.7119,8.769 83.235,35.758 14.2831,-27.693 48.3079,-53.989 80.8319,-55.488 h 38.7991 c 14.6765,0 49.014,2.703 59.9419,-2.679 17.8126,-8.769 1.7807,-22.705 18.7846,-26.916 26.7179,-6.619 45.4139,51.018 78.6041,48.872 54.5093,-3.524 38.0581,-122.65 40.028,-161.661 2.9021,-0.665 0,0 2.9021,0.634 2.5584,20.504 7.5817,2.809 14.0441,17.945 1.1184,13.215 -2.4718,52.715 -0.492,69.547 1.0885,9.249 6.4594,1.383 6.1228,14.719 -0.4392,17.412 1.9211,40.748 1.7358,57.789 -0.1782,16.499 0.2301,35.271 0.492,58.538 7.9203,-21.537 35.5813,-54.259 54.0333,-57.058 43.5246,-6.601 51.7129,8.769 83.235,35.758 14.2841,-27.693 48.3099,-53.989 80.8338,-55.488 h 31.6725 c 14.6765,0 49.015,2.703 59.941,-2.679 17.8136,-8.769 1.7806,-22.705 18.7865,-26.916 26.7159,-6.619 45.4119,51.018 78.6021,48.872 54.5094,-3.524 38.0582,-122.65 40.028,-161.661 2.9021,-0.665 0,0 2.9021,0.634 2.5594,20.504 7.5827,2.809 14.0441,17.945 1.1184,13.215 -2.4718,52.715 -0.491,69.547 1.0885,9.249 6.4584,1.383 6.1218,14.719 -0.4382,17.412 1.9211,40.748 1.7368,57.789 -0.1782,16.499 0.2291,35.271 0.492,58.538 7.9194,-21.537 35.5804,-54.259 54.0343,-57.058 43.5227,-6.601 51.7119,8.769 83.235,35.758 14.2841,-27.693 48.3079,-53.989 80.8319,-55.488 26.2408,-1.208 64.8417,0 89.4025,0"
+   id="path1070" />
+</g>
+<g
+   id="Camada_4"
+   transform="matrix(1.0000095,0,0,1,10.648961,0)">
+	<rect
+   y="304"
+   fill="#dadada"
+   width="3850.6489"
+   height="72"
+   id="rect1073"
+   x="-10.64886"
+   style="stroke-width:1.00139" />
+	<rect
+   x="-9.6549997"
+   y="1753"
+   fill="#dadada"
+   width="3840"
+   height="72"
+   id="rect1075" />
+	<linearGradient
+   id="SVGID_3_"
+   gradientUnits="userSpaceOnUse"
+   x1="1909.3438"
+   y1="1735.7207"
+   x2="1909.3438"
+   y2="2177.3096">
+		<stop
+   offset="0"
+   style="stop-color:#FFFFFF"
+   id="stop1077" />
+		<stop
+   offset="1"
+   style="stop-color:#A3195B"
+   id="stop1079" />
+	</linearGradient>
+	<rect
+   x="-10.656"
+   y="1818"
+   opacity="0.3"
+   fill="url(#SVGID_3_)"
+   width="3840"
+   height="342"
+   id="rect1082"
+   style="fill:url(#SVGID_3_)" />
+	
+		<linearGradient
+   id="SVGID_4_"
+   gradientUnits="userSpaceOnUse"
+   x1="500.61569"
+   y1="-984.75629"
+   x2="500.61569"
+   y2="-586.48438"
+   gradientTransform="rotate(180,1207.4844,-301.04785)">
+		<stop
+   offset="0"
+   style="stop-color:#FFFFFF"
+   id="stop1084" />
+		<stop
+   offset="1"
+   style="stop-color:#A3195B"
+   id="stop1086" />
+	</linearGradient>
+	<rect
+   x="-10.657"
+   opacity="0.3"
+   fill="url(#SVGID_4_)"
+   width="3850.02"
+   height="308.452"
+   id="rect1089"
+   style="fill:url(#SVGID_4_)"
+   y="0" />
+</g>
+<g
+   id="g1094">
+		<path
+   d="m 3164.971,238.83 c -2.451,-8.312 -5.949,-16.115 -10.494,-23.406 -4.547,-7.291 -13.34,-18.614 -26.383,-33.973 -9.566,-11.271 -15.456,-18.422 -17.668,-21.451 -3.637,-4.931 -6.266,-9.458 -7.886,-13.579 -1.621,-4.121 -2.431,-8.295 -2.431,-12.521 0,-7.82 2.924,-14.371 8.775,-19.655 5.849,-5.283 13.121,-7.925 21.817,-7.925 8.615,0 16.126,2.747 22.529,8.242 4.821,4.086 8.733,10.181 11.739,18.281 2.529,-7.89 6.166,-13.912 10.908,-18.07 6.561,-5.706 14.111,-8.559 22.648,-8.559 8.615,0 15.908,2.606 21.877,7.819 5.968,5.214 8.953,11.412 8.953,18.598 0,6.411 -1.72,13.034 -5.158,19.866 -3.439,6.834 -10.18,15.887 -20.217,27.157 -12.967,14.583 -22.412,26.56 -28.34,35.928 -4.663,7.397 -8.22,15.147 -10.669,23.248 z"
+   id="path1092" />
+	</g><g
+   id="g1108">
+		<path
+   d="m 3326.678,213.682 h -11.342 v -64.407 c -2.73,2.322 -6.313,4.643 -10.743,6.963 -4.433,2.322 -8.412,4.063 -11.94,5.223 v -9.771 c 6.342,-2.658 11.887,-5.877 16.635,-9.658 4.746,-3.781 8.106,-7.449 10.082,-11.006 h 7.309 v 82.656 z"
+   id="path1096" />
+		<path
+   d="m 3415.333,203.967 v 9.715 h -61.057 c -0.085,-2.434 0.356,-4.773 1.323,-7.02 1.553,-3.706 4.043,-7.355 7.467,-10.949 3.423,-3.594 8.369,-7.749 14.839,-12.466 10.039,-7.337 16.823,-13.148 20.353,-17.436 3.528,-4.286 5.293,-8.339 5.293,-12.157 0,-4.005 -1.607,-7.384 -4.82,-10.135 -3.214,-2.752 -7.404,-4.128 -12.571,-4.128 -5.461,0 -9.829,1.46 -13.106,4.38 -3.275,2.92 -4.936,6.963 -4.977,12.129 l -11.658,-1.066 c 0.799,-7.749 3.802,-13.654 9.012,-17.716 5.207,-4.062 12.201,-6.093 20.982,-6.093 8.862,0 15.878,2.189 21.045,6.569 5.166,4.38 7.75,9.809 7.75,16.284 0,3.295 -0.756,6.533 -2.269,9.715 -1.513,3.182 -4.022,6.533 -7.529,10.051 -3.509,3.52 -9.337,8.349 -17.485,14.487 -6.805,5.092 -11.175,8.545 -13.106,10.36 -1.933,1.816 -3.528,3.642 -4.788,5.475 h 45.302 z"
+   id="path1098" />
+		<path
+   d="m 3427.494,173.083 c 0,-9.732 1.123,-17.565 3.371,-23.499 2.246,-5.934 5.586,-10.51 10.019,-13.729 4.431,-3.22 10.008,-4.829 16.729,-4.829 4.955,0 9.303,0.89 13.043,2.667 3.738,1.778 6.826,4.343 9.262,7.693 2.436,3.35 4.348,7.431 5.734,12.241 1.386,4.81 2.08,11.296 2.08,19.456 0,9.658 -1.114,17.455 -3.34,23.388 -2.228,5.934 -5.557,10.52 -9.987,13.758 -4.433,3.238 -10.03,4.856 -16.792,4.856 -8.906,0 -15.9,-2.844 -20.982,-8.535 -6.092,-6.851 -9.137,-18.005 -9.137,-33.467 z m 11.656,0 c 0,13.515 1.775,22.509 5.324,26.981 3.55,4.474 7.93,6.71 13.139,6.71 5.208,0 9.587,-2.246 13.137,-6.738 3.55,-4.492 5.324,-13.477 5.324,-26.953 0,-13.551 -1.774,-22.554 -5.324,-27.009 -3.55,-4.455 -7.971,-6.683 -13.264,-6.683 -5.209,0 -9.367,1.966 -12.476,5.896 -3.906,5.018 -5.86,14.283 -5.86,27.796 z"
+   id="path1100" />
+		<path
+   d="m 3493.906,215.085 26.779,-85.127 h 9.074 l -26.717,85.127 z"
+   id="path1102" />
+		<path
+   d="m 3593.967,151.521 -11.279,0.786 c -1.008,-3.967 -2.437,-6.851 -4.284,-8.647 -3.067,-2.882 -6.848,-4.323 -11.343,-4.323 -3.612,0 -6.783,0.898 -9.514,2.695 -3.57,2.321 -6.386,5.709 -8.443,10.163 -2.059,4.456 -3.13,10.801 -3.214,19.036 2.73,-3.706 6.069,-6.458 10.019,-8.255 3.948,-1.797 8.086,-2.695 12.413,-2.695 7.562,0 13.998,2.48 19.313,7.44 5.313,4.961 7.971,11.371 7.971,19.232 0,5.166 -1.251,9.967 -3.75,14.403 -2.5,4.436 -5.934,7.833 -10.302,10.191 -4.37,2.358 -9.325,3.537 -14.87,3.537 -9.451,0 -17.16,-3.097 -23.125,-9.293 -5.965,-6.195 -8.947,-16.405 -8.947,-30.631 0,-15.91 3.297,-27.478 9.893,-34.702 5.754,-6.289 13.504,-9.434 23.25,-9.434 7.268,0 13.222,1.816 17.863,5.446 4.641,3.634 7.424,8.649 8.349,15.051 z m -46.313,35.488 c 0,3.481 0.828,6.814 2.488,9.995 1.659,3.183 3.98,5.606 6.963,7.272 2.983,1.666 6.112,2.498 9.389,2.498 4.789,0 8.905,-1.721 12.35,-5.166 3.444,-3.443 5.168,-8.122 5.168,-14.038 0,-5.689 -1.702,-10.172 -5.104,-13.448 -3.403,-3.275 -7.688,-4.913 -12.854,-4.913 -5.125,0 -9.473,1.638 -13.043,4.913 -3.572,3.276 -5.357,7.572 -5.357,12.887 z"
+   id="path1104" />
+		<path
+   d="m 3606.884,173.083 c 0,-9.732 1.123,-17.565 3.371,-23.499 2.247,-5.934 5.586,-10.51 10.019,-13.729 4.432,-3.22 10.008,-4.829 16.729,-4.829 4.957,0 9.305,0.89 13.043,2.667 3.738,1.778 6.826,4.343 9.264,7.693 2.436,3.351 4.348,7.431 5.733,12.241 1.385,4.81 2.079,11.296 2.079,19.456 0,9.658 -1.113,17.455 -3.34,23.388 -2.227,5.934 -5.555,10.52 -9.986,13.758 -4.433,3.238 -10.029,4.856 -16.793,4.856 -8.905,0 -15.899,-2.844 -20.982,-8.535 -6.092,-6.851 -9.137,-18.005 -9.137,-33.467 z m 11.657,0 c 0,13.515 1.773,22.509 5.324,26.981 3.549,4.474 7.928,6.71 13.137,6.71 5.209,0 9.588,-2.246 13.139,-6.738 3.549,-4.492 5.324,-13.477 5.324,-26.953 0,-13.551 -1.775,-22.554 -5.324,-27.009 -3.551,-4.455 -7.971,-6.683 -13.264,-6.683 -5.209,0 -9.368,1.966 -12.477,5.896 -3.906,5.018 -5.859,14.283 -5.859,27.796 z"
+   id="path1106" />
+	</g><g
+   id="g1114"
+   transform="matrix(0.95971233,0,0,0.5,65.490767,168.75)">
+		<line
+   fill="#ffffff"
+   x1="-68.239998"
+   y1="340"
+   x2="3932.959"
+   y2="340"
+   id="line1110" />
+		<rect
+   x="-68.239998"
+   y="337.5"
+   width="4001.199"
+   height="5"
+   id="rect1112" />
+	</g><g
+   id="g1120"
+   transform="matrix(0.9623769,0,0,0.5,56.017643,893.25)">
+		<line
+   fill="#ffffff"
+   x1="-68.239998"
+   y1="1789"
+   x2="3932.959"
+   y2="1789"
+   id="line1116" />
+		<rect
+   x="-68.239998"
+   y="1786.5"
+   width="4001.199"
+   height="5"
+   id="rect1118" />
+	</g>
+</svg>
